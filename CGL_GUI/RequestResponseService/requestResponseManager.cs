@@ -5,6 +5,8 @@ namespace CGL_GUI
 	{
 		public requestResponseManager()
 		{
+
+
 		}
 	}
 }
